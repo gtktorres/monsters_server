@@ -4,7 +4,7 @@
   "description": "get monsters or get monster, maybe more",
   "main": "index.js",
   "scripts": {
-    "test": "test",
+    "test": "jest",
     "dev": "nodemon --exec babel-node server/index.js"
   },
   "repository": {
